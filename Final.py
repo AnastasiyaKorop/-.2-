@@ -18,4 +18,5 @@ def openinf():
 
 ui.commandLinkButton.clicked.connect(openinf)
 
+
 sys.exit(app.exec_())
